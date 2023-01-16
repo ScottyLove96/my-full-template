@@ -1,3 +1,4 @@
 # My very first website
 
-Welcome! https://codeinstitue.net
+Welcome! [Code Institute](https://codeinstitute.net)
+
